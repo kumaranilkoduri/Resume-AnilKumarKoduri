@@ -8,16 +8,16 @@
 
 ### Professional Skills
 
-Cloud Technologies:	GCP and AWS
-DevOps Tools:	Git, GitHub Actions, Jenkins, Docker, Kubernetes (K8s, K3s & MicroK8s), Helm, Istio, Spinnaker, SonarQube, Whitesource, AquaSec, JFrog, Ansible & Terraform
-MLOps Tools:	Kubeflow, MLFlow and TensorFlowX	
-Databases:	MySQL, PostGreSQL, SQLite, MongoDB
-Messaging Tools:	Apache Kafka, Redis and HiveMQ Broker
-Monitoring Tools:		Prometheus, Grafana, ELK Stack
-Scripting Tools:		Shell Scripting, Python Scripting
-Languages:			Python, Apache Groovy DSL, Python DSL for KubeFlow
-Operating Systems:		Linux (CentOS, SUSE & Ubuntu)& Windows
-Ticketing Tools:		Atlassian Jira, Slack BMC Remedy and ServiceNow
+* **Cloud Technologies:**	GCP and AWS
+* **DevOps Tools:**	Git, GitHub Actions, Jenkins, Docker, Kubernetes (K8s, K3s & MicroK8s), Helm, Istio, Spinnaker, SonarQube, Whitesource, AquaSec, JFrog, Ansible & Terraform
+* **MLOps Tools:**	Kubeflow, MLFlow and TensorFlowX	
+* **Databases:**	MySQL, PostGreSQL, SQLite, MongoDB
+* **Messaging Tools:**	Apache Kafka, Redis and HiveMQ Broker
+* **Monitoring Tools:**		Prometheus, Grafana, ELK Stack
+* **Scripting Tools:**		Shell Scripting, Python Scripting
+* **Languages:**			Python, Apache Groovy DSL, Python DSL for KubeFlow
+* **Operating Systems:**		Linux (CentOS, SUSE & Ubuntu)& Windows
+* **Ticketing Tools:**		Atlassian Jira, Slack, BMC Remedy and ServiceNow
 
 
 ```markdown
