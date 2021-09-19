@@ -1,4 +1,4 @@
-## Anil Kumar Koduri Digital Resume
+## Summary
 
 * DevOps expert in designing and implementing high-level and low-level architecture to implement traditional CI/CD pipeline strategy in various environments with adopting edge and cloud technologies.
 * MLOps enthusiast in creating ML/DL CI/CD/CT Pipelines for Machine Learning and Deep Learning Environment
@@ -6,9 +6,19 @@
 * Knowledge and experience in implementing the entire cloud infrastructure using Terraform.
 * Good Experience in working with Kubeflow, Kubernetes, Helm & Istio, ArgoCD, MLFlow.
 
-### Markdown
+### Professional Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Cloud Technologies:	GCP and AWS
+DevOps Tools:	Git, GitHub Actions, Jenkins, Docker, Kubernetes (K8s, K3s & MicroK8s), Helm, Istio, Spinnaker, SonarQube, Whitesource, AquaSec, JFrog, Ansible & Terraform
+MLOps Tools:	Kubeflow, MLFlow and TensorFlowX	
+Databases:	MySQL, PostGreSQL, SQLite, MongoDB
+Messaging Tools:	Apache Kafka, Redis and HiveMQ Broker
+Monitoring Tools:		Prometheus, Grafana, ELK Stack
+Scripting Tools:		Shell Scripting, Python Scripting
+Languages:			Python, Apache Groovy DSL, Python DSL for KubeFlow
+Operating Systems:		Linux (CentOS, SUSE & Ubuntu)& Windows
+Ticketing Tools:		Atlassian Jira, Slack BMC Remedy and ServiceNow
+
 
 ```markdown
 Syntax highlighted code block
