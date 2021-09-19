@@ -1,6 +1,10 @@
 ## Summary
 
+##### Contact No: +91 9959050286
+##### Email: kumar.anil.koduri@gmail.om
+
 https://kumaranilkoduri.github.io/Resume-AnilKumarKoduri/
+https://www.linkedin.com/in/anil-kumar-koduri-0872b8158/
 
 * DevOps expert in designing and implementing high-level and low-level architecture to implement traditional CI/CD pipeline strategy in various environments with adopting edge and cloud technologies.
 * MLOps enthusiast in creating CI/CD/CT Pipelines for Machine Learning and Deep Learning Environment
