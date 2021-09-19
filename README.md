@@ -39,11 +39,9 @@ Duration:  	Apr, 2020 – Till Date**
 * Implemented CI/CD pipelines using Jenkins & GitHub Actions for DevOps & MLOPs.
 * Coordinated with Developers across various teams to achieve code coverage with Sonarqube & Implemented SonarQube Quality gate thresholds to break the builds in case not achieving the required code coverage in microservices
 * Identifying vulnerability alerts with Whitesource, Dependabot and Aquasec for various 3rd party libraries and licenses and working with Developers to resolve them.
-* Containerized various microservices, prepared and packaged Umbrella Helm charts.
+* Containerized various microservices, prepared and packaged stable Umbrella Helm charts after running basic smoke tests and cypress test cases against Dev environment.
 * Created Development, Test, Staging infrastructure environments using using Terraform.
-* Running basic smoke tests and cypress test cases against Dev environment to package the stable Helm chart and push to staging environment
 * Supporting Developers, Test Automation & QAs in conducting the tests for features in product releases.
-* Right-sizing of the various microservices pods depending upon the performance testing
 * Setting up cloud logging and for custom metrics apart from traditional metrics
 * Creating internal documentation using GitHub Pages for entire product,
 * Working in Agile environment and preparing confluence pages for the product documentation.
@@ -57,17 +55,15 @@ Responsibilities:**
 * Co-ordinating with Client on understanding the requirements for Cloud migrations.
 * Design and implementation of High-level and low-level cloud architecture on Google Cloud Platform environment.
 * Co-ordinated with Network and security teams to meet the requirements of the Client to migrate to GCP.
-* Synchronization of Active Directory users from on-prem environment to GCP using Google Cloud Directory Sync and setting up ADFS & SSO.
 * Creating Google cloud infrastructure using Terraform
-* Co-ordinating with Developers in writing Dockerfiles and containerizing them.
 * Setting up the Jenkins CI/CD pipelines to implement DevOps culture
+* Co-ordinating with Developers in writing Dockerfiles and containerizing them.
 * Code Coverage implementation using SonarQube with Integration to Jenkins
 * Container Image scanning and reporting to Developers on vulnerabilities.
 * Creating the Cloud Pub/Sub notifications to trigger the pipelines in Spinnaker to deploy the Helm charts on to GKE Cluster.
-* Deploying Istio using Helm onto GKE cluster for monitoring, visualization and tracing using Prometheus, Grafana, Kiali and Jaguar.
+* Deploying Istio using Helm onto GKE cluster for monitoring, visualization and tracing using Prometheus, Grafana, Kiali and Jaeger.
 * Performed Locust Load testing on Microservices deployed onto GKE
-* Created various dashboards for monitoring in Grafana and Stackdriver as per the requirement.
-* Setup different alerting on the various resources based on thresholds in Stackdriver and Grafana.
+* Created various dashboards for monitoring in Grafana and Stackdriver & Setup different alerting based on thresholds.
 * Quick updates to the Google and the Client using the Slack channel and escalation if needed for the details.
 * Preparing the documentation report and submission to Google and Client.
 * Preparing Confluence pages for documentation of standard best practices.
@@ -101,7 +97,6 @@ Duration:  	Apr' 2016 – Nov' 2018**
 * Preparation of storage migration plans to deploy into GCP environment via Terraform.
 * Assisted in preparing the High-level design architecture and detailed infrastructure design with senior architects.
 * Experience in creating Google cloud infrastructure using Terraform and Ansible
-* Knowledge and hands on experience on Stack driver, pub-sub, VPC, Subnets, route tables, Load balancers, firewall etc.
 * Administrated all aspects in GIT and troubleshoot with merge conflicts. Working on weekly merges for different branches and resolving the conflicts as part of release activities.
 * Configured and maintained Jenkins to implement the CI/CD process and integrated SonarQube for Code Coverage.
 * Working with development/testing, deployment, systems/infrastructure and project teams to ensure continuous operation of build and test system. 
@@ -109,18 +104,13 @@ Duration:  	Apr' 2016 – Nov' 2018**
 
 **Employer: 	KBR Engineering College
 Role: 		Systems Administrator
-Duration:  	Aug’ 2009 – Mar’ 2016
+Duration:  	Aug' 2009 – Mar' 2016
 Responsibilities: **
-* Day to day maintenance and checks of all system hardware.
-* Troubleshooting systems level issues and updating or upgrading OS.
-* Networking operations and managing vLANs and Cisco switch.
+* Day to day maintenance and checks of all system hardware & troubleshooting.
 * Conducting on-line examinations for Engineering Students.
 * Administration and Management of Netapp filers of 7-mode.  
-* Create Alias, Zones and add Zones across the Fabric of Brocade and Cisco switches.
 * Provision & Manage Aggregate, Volume, Qtree and LUNs on NetApp ONTAP. 
-* Creating quota reports based on resource usage and managing share quotas. 
 * Teaching the Engineering students
-* Provide documentation support and maintenance of Lab related operations.
 
 **Education:**
 * Master of Technology from JNTU.
