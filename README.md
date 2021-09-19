@@ -88,8 +88,6 @@
 * Resolve any client or sales concerns and revise proposals if necessary and Involved in creating RFP, POC for cloud migrations.
 * Managing and training the team on various GCP components and various IaC tools such as Terraform and Ansible.
 * Creating the IoT cloud environments using CI/CD, Microservices and container based for implementing the DevOps culture.
-* Successfully configured the Apache Kafka for message queuing and installed HiveMQ MQTT Broker software for streaming of IoT sensor data.
-* Configured ELK stack for monitoring & logging for the cloud environment.
 * Successfully deployed the GCP cloud environment using the Terraform automation IaC tool.
 * Coordinating with team on reviewing the pre-implementation plans for successful implementation on GCP with best practices.
 * SPOC for coordinating with Google Cloud Partner Engineer and Unicorn Scout engineer for deploying the solution on to the GCP
