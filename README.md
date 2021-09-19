@@ -57,7 +57,7 @@
 #### Employer: 	Fariz Infosolutions Pvt Limited (www.fisclouds.com)
 #### Project:	Media, Banking and Logistics Projects on GCP	
 #### Role: 		Cloud Architect
-#### Duration:  	May, 2019 – Apr, 2020**
+#### Duration:  	May' 2019 – Apr' 2020
 #### Responsibilities:
 
 * Co-ordinating with Client on understanding the requirements for Cloud migrations.
@@ -85,16 +85,13 @@
 
 * Design of high-level architecture of IoT on Google Cloud Platform for migrating the on-premise environment. 
 * Analyze prospect requirements and establish parameters to ensure client receives the right solution, in conjunction with the Sales Representative.
-* Resolve any client or sales concerns and revise proposals if necessary.
-* Involved in creating RFP, POC for cloud migrations.
-* Managing and training the team on various GCP components.
+* Resolve any client or sales concerns and revise proposals if necessary and Involved in creating RFP, POC for cloud migrations.
+* Managing and training the team on various GCP components and various IaC tools such as Terraform and Ansible.
 * Creating the IoT cloud environments using CI/CD, Microservices and container based for implementing the DevOps culture.
-* Training the team on Various IaC tools such as Terraform and Ansible.
 * Successfully configured the Apache Kafka for message queuing and installed HiveMQ MQTT Broker software for streaming of IoT sensor data.
 * Configured ELK stack for monitoring & logging for the cloud environment.
 * Successfully deployed the GCP cloud environment using the Terraform automation IaC tool.
 * Coordinating with team on reviewing the pre-implementation plans for successful implementation on GCP with best practices.
-* Co-ordinating the various teams such as Application, Embedded, BigData & Google Cloud teams for successful deployment of the IoT product in to GCP platform.
 * SPOC for coordinating with Google Cloud Partner Engineer and Unicorn Scout engineer for deploying the solution on to the GCP
 * Reporting to the Manager on design related aspects for the effective implementation in GCP platform.
 
