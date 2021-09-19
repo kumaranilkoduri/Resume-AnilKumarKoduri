@@ -10,7 +10,7 @@
 
 * **Cloud Technologies:**	GCP and AWS
 * **DevOps Tools:**	Git, GitHub Actions, Jenkins, Docker, Kubernetes (K8s, K3s & MicroK8s), Helm, Istio, Spinnaker, SonarQube, Whitesource, AquaSec, JFrog, Ansible & Terraform
-* **MLOps Tools:**	Kubeflow, MLFlow and TensorFlowX	
+* **MLOps Tools:**	Kubeflow, MLFlow, Databricks and TensorFlowX	
 * **Databases:**	MySQL, PostGreSQL, SQLite, MongoDB
 * **Messaging Tools:**	Apache Kafka, Redis and HiveMQ Broker
 * **Monitoring Tools:**		Prometheus, Grafana, ELK Stack
