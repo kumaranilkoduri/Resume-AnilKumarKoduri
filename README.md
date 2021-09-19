@@ -57,7 +57,7 @@
 ##### Employer: 	Fariz Infosolutions Pvt Limited (www.fisclouds.com)
 ##### Project:	Media, Banking and Logistics Projects on GCP	
 ##### Role: 		Cloud Architect
-##### Duration:  	May' 2019 – Apr' 2020
+##### Duration:  	May, 2019 – Apr, 2020
 ##### Responsibilities:
 
 * Co-ordinating with Client on understanding the requirements for Cloud migrations.
@@ -80,7 +80,7 @@
 ##### Employer: 	L&T Technology Services Limited
 ##### Project:	UbiqWeise IoT on Google Cloud Platform	
 ##### Role: 		Tech Lead – Google Cloud Platform
-##### Duration:  	Nov' 2018 – Apr' 2019
+##### Duration:  	Nov, 2018 – Apr, 2019
 ##### Responsibilities:
 
 * Design of high-level architecture of IoT on Google Cloud Platform for migrating the on-premise environment. 
@@ -96,7 +96,7 @@
 ##### Employer:	Vodafone India Services Pvt Ltd
 ##### Project:	Vodafone New Zealand
 ##### Role: 		Assistant Manager – Role: Cloud & DevOps Engineer
-##### Duration:  	Apr' 2016 – Nov' 2018
+##### Duration:  	Apr, 2016 – Nov, 2018
 ##### Responsibilities:
 
 * Preparation of storage migration plans to deploy into GCP environment via Terraform.
@@ -109,7 +109,7 @@
 
 ##### Employer: 	KBR Engineering College
 ##### Role: 		Systems Administrator
-##### Duration:  	Aug' 2009 – Mar' 2016
+##### Duration:  	Aug, 2009 – Mar, 2016
 ##### Responsibilities:
 
 * Day to day maintenance and checks of all system hardware & troubleshooting.
