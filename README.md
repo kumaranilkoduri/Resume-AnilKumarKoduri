@@ -1,5 +1,7 @@
 ## Summary
 
+https://kumaranilkoduri.github.io/Resume-AnilKumarKoduri/
+
 * DevOps expert in designing and implementing high-level and low-level architecture to implement traditional CI/CD pipeline strategy in various environments with adopting edge and cloud technologies.
 * MLOps enthusiast in creating CI/CD/CT Pipelines for Machine Learning and Deep Learning Environment
 * Experience in coordinating with Developers, Datascientists, Test Automation, QAs, on-premises infrastructure, Network, Security, Application teams in successful deployment of infrastructure and microservices to Edge/Cloud Platform.
