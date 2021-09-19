@@ -3,8 +3,8 @@
 ##### Contact No: +91 9959050286
 ##### Email: kumar.anil.koduri@gmail.om
 
-###### https://kumaranilkoduri.github.io/Resume-AnilKumarKoduri/
-###### https://www.linkedin.com/in/anil-kumar-koduri-0872b8158/
+##### https://kumaranilkoduri.github.io/Resume-AnilKumarKoduri/
+##### https://www.linkedin.com/in/anil-kumar-koduri-0872b8158/
 
 * DevOps expert in designing and implementing high-level and low-level architecture to implement traditional CI/CD pipeline strategy in various environments with adopting edge and cloud technologies.
 * MLOps enthusiast in creating CI/CD/CT Pipelines for Machine Learning and Deep Learning Environment
@@ -35,11 +35,11 @@
 
 ## Professional Summary
 
-#### Employer: 	NCR Corporation
-#### Project:	Retail Product	- R&D
-#### Role: 		SW DevOps Engineer III
-#### Duration:  	Apr, 2020 – Till Date
-#### Responsibilities:
+##### Employer: 	NCR Corporation
+##### Project:	Retail Product	- R&D
+##### Role: 		SW DevOps Engineer III
+##### Duration:  	Apr, 2020 – Till Date
+##### Responsibilities:
 
 * Working in Research & Development environment for next generation of Retail Product to implement the DevOps strategy.
 * Actively involved in designing and development of High-level architecture design with enterprise architects to support for Edge Computing, On-Premises and Cloud Computing.
@@ -54,11 +54,11 @@
 * Creating internal documentation using GitHub Pages for entire product,
 * Working in Agile environment and preparing confluence pages for the product documentation.
 
-#### Employer: 	Fariz Infosolutions Pvt Limited (www.fisclouds.com)
-#### Project:	Media, Banking and Logistics Projects on GCP	
-#### Role: 		Cloud Architect
-#### Duration:  	May' 2019 – Apr' 2020
-#### Responsibilities:
+##### Employer: 	Fariz Infosolutions Pvt Limited (www.fisclouds.com)
+##### Project:	Media, Banking and Logistics Projects on GCP	
+##### Role: 		Cloud Architect
+##### Duration:  	May' 2019 – Apr' 2020
+##### Responsibilities:
 
 * Co-ordinating with Client on understanding the requirements for Cloud migrations.
 * Design and implementation of High-level and low-level cloud architecture on Google Cloud Platform environment.
@@ -77,11 +77,11 @@
 * Preparing Confluence pages for documentation of standard best practices.
 * Organizing daily standup calls with internal team and weekly meetings with clients for sync-up & report submission. 
 
-#### Employer: 	L&T Technology Services Limited
-#### Project:	UbiqWeise IoT on Google Cloud Platform	
-#### Role: 		Tech Lead – Google Cloud Platform
-#### Duration:  	Nov' 2018 – Apr' 2019
-#### Responsibilities:
+##### Employer: 	L&T Technology Services Limited
+##### Project:	UbiqWeise IoT on Google Cloud Platform	
+##### Role: 		Tech Lead – Google Cloud Platform
+##### Duration:  	Nov' 2018 – Apr' 2019
+##### Responsibilities:
 
 * Design of high-level architecture of IoT on Google Cloud Platform for migrating the on-premise environment. 
 * Analyze prospect requirements and establish parameters to ensure client receives the right solution, in conjunction with the Sales Representative.
@@ -93,11 +93,11 @@
 * SPOC for coordinating with Google Cloud Partner Engineer and Unicorn Scout engineer for deploying the solution on to the GCP
 * Reporting to the Manager on design related aspects for the effective implementation in GCP platform.
 
-#### Employer:	Vodafone India Services Pvt Ltd
-#### Project:	Vodafone New Zealand
-#### Role: 		Assistant Manager – Role: Cloud & DevOps Engineer
-#### Duration:  	Apr' 2016 – Nov' 2018
-#### Responsibilities:
+##### Employer:	Vodafone India Services Pvt Ltd
+##### Project:	Vodafone New Zealand
+##### Role: 		Assistant Manager – Role: Cloud & DevOps Engineer
+##### Duration:  	Apr' 2016 – Nov' 2018
+##### Responsibilities:
 
 * Preparation of storage migration plans to deploy into GCP environment via Terraform.
 * Assisted in preparing the High-level design architecture and detailed infrastructure design with senior architects.
@@ -107,11 +107,10 @@
 * Working with development/testing, deployment, systems/infrastructure and project teams to ensure continuous operation of build and test system. 
 * Creating support case with Google Cloud and follow-up in case of any issue.
 
-#### Employer: 	KBR Engineering College
-#### Role: 		Systems Administrator
-#### Duration:  	Aug' 2009 – Mar' 2016
-
-#### Responsibilities:
+##### Employer: 	KBR Engineering College
+##### Role: 		Systems Administrator
+##### Duration:  	Aug' 2009 – Mar' 2016
+##### Responsibilities:
 
 * Day to day maintenance and checks of all system hardware & troubleshooting.
 * Conducting on-line examinations for Engineering Students.
@@ -119,7 +118,7 @@
 * Provision & Manage Aggregate, Volume, Qtree and LUNs on NetApp ONTAP. 
 * Teaching the Engineering students
 
-#### Education:
+##### Education:
 
 * Master of Technology from JNTU.
 
