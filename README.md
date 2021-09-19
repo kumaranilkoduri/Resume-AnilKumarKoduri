@@ -7,7 +7,7 @@
 * Experience in writing Dockerfiles and containerizing them
 * Good Experience in working with Kubeflow, Kubernetes, Helm & Istio, ArgoCD, MLFlow.
 
-### Professional Skills
+## Professional Skills
 
 * **Cloud Technologies:**	GCP and AWS
 * **DevOps Tools:**	Git, GitHub Actions, Jenkins, Docker, Kubernetes (K8s, K3s & MicroK8s), Helm, Istio, Spinnaker, SonarQube, Whitesource, AquaSec, JFrog, Ansible & Terraform
@@ -20,21 +20,21 @@
 * **Operating Systems:**		Linux (CentOS, SUSE & Ubuntu)& Windows
 * **Ticketing Tools:**		Atlassian Jira, Slack, BMC Remedy and ServiceNow
 
-### Certifications
+## Certifications
 *	Google Certified Professional Data Engineer
 *	Google Certified Professional Cloud Architect 
 *	AWS Certified SysOps Administrator – Asscociate
 *	AWS Certified Solution Architect – Associate
 *	ITILv3 Foundation Certified
 
-### Professional Summary
+## Professional Summary
 
-# Employer: 	NCR Corporation
-# Project:	Retail Product	- R&D
-# Role: 		SW DevOps Engineer III
-# Duration:  	Apr, 2020 – Till Date**
+#### Employer: 	NCR Corporation
+#### Project:	Retail Product	- R&D
+#### Role: 		SW DevOps Engineer III
+#### Duration:  	Apr, 2020 – Till Date**
 
-# Responsibilities:
+#### Responsibilities:
 
 * Working in Research & Development environment for next generation of Retail Product to implement the DevOps strategy.
 * Actively involved in designing and development of High-level architecture design with enterprise architects to support for Edge Computing, On-Premises and Cloud Computing.
