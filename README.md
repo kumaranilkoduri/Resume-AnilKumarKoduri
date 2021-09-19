@@ -1,11 +1,11 @@
 ## Anil Kumar Koduri Digital Resume
-
-** DevOps expert in designing and implementing high-level and low-level architecture to implement traditional CI/CD pipeline strategy in various environments with adopting edge and cloud technologies.
-** MLOps enthusiast in creating ML/DL CI/CD/CT Pipelines for Machine Learning and Deep Learning Environment
-** Experience in coordinating with Developers, Datascientists, Test Automation, QAs, on-premises infrastructure, Network, Security, Application teams in successful deployment of infrastructure and microservices to Edge/Cloud Platform.
-** Knowledge and experience in implementing the entire cloud infrastructure using Terraform.
-** Good Experience in working with Kubeflow, Kubernetes, Helm & Istio, ArgoCD, MLFlow.
-
+```
+* DevOps expert in designing and implementing high-level and low-level architecture to implement traditional CI/CD pipeline strategy in various environments with adopting edge and cloud technologies.
+* MLOps enthusiast in creating ML/DL CI/CD/CT Pipelines for Machine Learning and Deep Learning Environment
+* Experience in coordinating with Developers, Datascientists, Test Automation, QAs, on-premises infrastructure, Network, Security, Application teams in successful deployment of infrastructure and microservices to Edge/Cloud Platform.
+* Knowledge and experience in implementing the entire cloud infrastructure using Terraform.
+* Good Experience in working with Kubeflow, Kubernetes, Helm & Istio, ArgoCD, MLFlow.
+```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
