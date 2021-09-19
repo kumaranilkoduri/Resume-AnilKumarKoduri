@@ -29,12 +29,12 @@
 
 ### Professional Summary
 
-#Employer: 	NCR Corporation
-#Project:	Retail Product	- R&D
-#Role: 		SW DevOps Engineer III
-#Duration:  	Apr, 2020 – Till Date**
+# Employer: 	NCR Corporation
+# Project:	Retail Product	- R&D
+# Role: 		SW DevOps Engineer III
+# Duration:  	Apr, 2020 – Till Date**
 
-#Responsibilities:
+# Responsibilities:
 
 * Working in Research & Development environment for next generation of Retail Product to implement the DevOps strategy.
 * Actively involved in designing and development of High-level architecture design with enterprise architects to support for Edge Computing, On-Premises and Cloud Computing.
